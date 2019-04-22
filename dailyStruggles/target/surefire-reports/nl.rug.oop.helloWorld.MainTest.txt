@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: nl.rug.oop.helloWorld.MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in nl.rug.oop.helloWorld.MainTest
+nl.rug.oop.helloWorld.MainTest  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+
+	at nl.rug.oop.helloWorld.MainTest.setUpResources(MainTest.java:62)
+
